@@ -1,0 +1,43 @@
+.portfolio-left-img {
+    width: 100%;
+}
+
+body {
+    color: #70b3a7;
+}
+
+h2 {
+    color: #444440;
+}
+
+.bg-dressCode {
+    background-color: #70b3a7;
+    color: #FFFFFF;
+
+}
+
+.saveTheDateText {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    font-size: 1.5rem;
+}
+
+#mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link {
+    color: #000000;
+  }
+
+  section#contact {
+      background-image: url("../images/masvino.jpg");
+      background-size: cover;
+  }
+
+  .btn-green {
+      background-color: #70b3a7 ;
+      color: #444440;
+  }
+
+  .location-heading{
+      margin-bottom: 10% !important;
+  }
